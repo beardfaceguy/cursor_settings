@@ -13,6 +13,7 @@ The `.cursor/` directory serves as a comprehensive knowledge base and rule syste
 - **11 specialized rule files** governing different aspects of AI behavior
 - **MANDATORY COMPLIANCE** - these rules MUST be followed and kept in context
 - Covers command execution, memory management, package manager consistency, code quality validation, minimal changes principle, deprecated code alerts, AI response boundaries, and safety protocols
+- Includes reviewer heuristics (`.cursor/docs/AE-1368/rules/code-review.md`) for automated reviews
 - **CRITICAL**: Always keep `.cursor/rules/` directory contents in context for every session
 
 ### 📁 **memory/** - Cross-Cutting Insights  
